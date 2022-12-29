@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Competitive Programming**
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently learning **Fullstack Technologies**
 
-- 💬 Ask me about **Core Java, OOPS, DBMS, HTML,CSS**
+- 💬 Ask me about **Core Java, OOPS, DBMS, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **bajpaianirudh03@gmail.com**
 
